@@ -23,3 +23,6 @@
 </div>
 
 
+![Snake animation](https://github.com/manuteu/manuteu/blob/output/github-contribution-grid-snake.svg)
+
+
